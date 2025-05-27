@@ -20,4 +20,4 @@ Jane isn't just a tool—she’s a companion. The goal is to create something th
 ## ☕ Support the Journey
 If you'd like to support or follow this experiment in building a real-world AI companion:
 
-[🌐 ko-fi.com/YOURUSERNAME](https://ko-fi.com/YOURUSERNAME)
+[🌐 ko-fi.com/janeai](https://ko-fi.com/janeai)
